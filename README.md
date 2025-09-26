@@ -30,11 +30,11 @@
 
 ### 📊 Contribution Graph & Activity Overview
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=ffffff&line=00e676&point=1de9b6&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumitsah250&bg_color=0d1117&color=ffffff&line=00e676&point=1de9b6&area=true&hide_border=true)
 
-![Sumit’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true)
+![Sumit’s GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitsah250&show_icons=true&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsah250&layout=compact&theme=radical&hide_border=true)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitsah250&show_icons=true&locale=en&layout=compact" alt="sumitsah250" /></p>
