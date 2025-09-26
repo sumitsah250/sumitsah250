@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm sumit sah</h1>
+<h1 align="center">Hi 👋, I'm sumit</h1>
 <h3 align="center">As an enthusiast of Deep Learning and Artificial Intelligence, I am also a android developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitsah250&label=Profile%20views&color=0e75b6&style=flat" alt="sumitsah250" /> </p>
