@@ -32,9 +32,11 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumitsah250&bg_color=0d1117&color=ffffff&line=00e676&point=1de9b6&area=true&hide_border=true)
 
-![Sumit’s GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitsah250&show_icons=true&theme=merko&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumitsah250&show_icons=true&theme=merko&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsah250&layout=compact&theme=radical&hide_border=true" height="180em" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsah250&layout=compact&theme=radical&hide_border=true)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitsah250&show_icons=true&locale=en&layout=compact" alt="sumitsah250" /></p>
