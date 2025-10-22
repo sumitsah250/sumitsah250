@@ -90,11 +90,11 @@
 
 ---
 
-### 🐍 Contribution Snake
-
+### 🎢 My GitHub in 3D
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/main/docs/demo.gif" width="500" alt="3D Contributions"/>
 </p>
+
 
 ---
 
