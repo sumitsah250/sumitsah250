@@ -90,11 +90,10 @@
 
 ---
 
-### 🎢 My GitHub in 3D
+### 🎨 Crafted with Passion
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/main/docs/demo.gif" width="500" alt="3D Contributions"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Keep%20Building,%20Keep%20Learning%20💡&fontSize=30&fontAlignY=35&desc=—%20Sumit%20Sah%20—&descAlignY=55&animation=twinkling" />
 </p>
-
 
 ---
 
