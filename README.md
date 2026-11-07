@@ -1,6 +1,6 @@
 <!-- 💫 Header -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E676,100:1DE9B6&height=180&section=header&text=Sumit%20Kumar%20Sah&fontSize=42&fontColor=0d1117&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20·%20Founder%20%26%20CEO%20@%20Sumix%20Developers&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E676,100:1DE9B6&height=180&section=header&text=Sumit%20Kumar%20Sah&fontSize=42&fontColor=0d1117&fontAlignY=35&desc=Flutter%20Developer%20and%20Founder%20of%20Sumix%20Developers&descAlignY=58&descSize=16" />
 </p>
 
 <h3 align="center">🎓 Licensed Computer Engineer | 📱 Flutter & Android Developer | 🚀 Founder & CEO, Sumix Developers | 🧠 AI & Deep Learning Enthusiast</h3>
@@ -85,11 +85,6 @@
 ### 📈 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitsah250&bg_color=0d1117&color=00E676&line=1de9b6&point=ffffff&area=true&hide_border=true" width="100%"/>
-<br/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=sumitsah250&show_icons=true&theme=tokyonight&hide_border=true" height="170em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsah250&layout=compact&theme=tokyonight&hide_border=true" height="170em"/>
-<br/><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sumitsah250&theme=tokyonight&hide_border=true" height="170em"/>
 </div>
 
@@ -108,7 +103,7 @@
 &nbsp;
 <a href="https://leetcode.com/sumitsah250"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40"/></a>
 &nbsp;
-<a href="https://www.hackerrank.com/sumitsah250"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="40" height="40"/></a>
+<a href="https://www.hackerrank.com/sumitsah250"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="40"/></a>
 </p>
 
 <p align="center">
