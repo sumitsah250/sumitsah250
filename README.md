@@ -1,101 +1,122 @@
 <!-- 💫 Header -->
-<h1 align="center">Hi there, I'm <span style="color:#00E676;">Sumit Sah</span> 👋</h1>
-<h3 align="center">🚀 Deep Learning & AI Enthusiast | 📱 Android Developer | ☕ Fueled by Curiosity & Coffee</h3>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E676,100:1DE9B6&height=180&section=header&text=Sumit%20Kumar%20Sah&fontSize=42&fontColor=0d1117&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20·%20Founder%20%26%20CEO%20@%20Sumix%20Developers&descAlignY=58&descSize=16" />
+</p>
+
+<h3 align="center">🎓 Licensed Computer Engineer | 📱 Flutter & Android Developer | 🚀 Founder & CEO, Sumix Developers | 🧠 AI & Deep Learning Enthusiast</h3>
 
 <p align="center">
-  <a href="https://sahsumit.com.np"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-  <a href="mailto:sumitsah250@gmail.com"><img src="https://img.shields.io/badge/📧_Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/sumitsah250"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://play.google.com/store/apps/details?id=com.boss.pustakbazzar"><img src="https://img.shields.io/badge/My_App-Pustak_Bazzar-success?style=for-the-badge&logo=google-play&logoColor=white"></a>
+<a href="https://sahsumit.com.np"><img src="https://img.shields.io/badge/Portfolio-sahsumit.com.np-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+<a href="https://sumixdevelopers.com"><img src="https://img.shields.io/badge/Company-Sumix_Developers-00C853?style=for-the-badge&logo=rocket&logoColor=white"></a>
+<a href="https://linkedin.com/in/sumit-sah-3675b91a9"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:sumitsah250@gmail.com"><img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-> I’m a passionate developer exploring the boundaries of **Artificial Intelligence, Deep Learning, and Android Development**.  
-> I love building projects that merge creativity with technology — whether it’s a **mobile app that simplifies life**, or an **AI model that predicts the future**.  
-> My current mission? To become a **full-stack AI developer** mastering both the art of algorithms and the architecture of scalable systems.
+> I'm a **licensed Computer Engineer** and **Flutter Developer** at **Margin Top Solutions Pvt. Ltd.**, Kathmandu, and the **Founder & CEO of [Sumix Developers](https://sumixdevelopers.com)** — an IT company that builds websites and software for businesses *and* runs their ads so they actually get customers.
+> I've published Android apps with **25K+ downloads and 6K+ active users**, and I love mixing mobile, web and AI to build products people use every day.
 
-- 🌱 I’m currently learning **Machine Learning Ops (MLOps)** and **DevOps**
-- 🔭 I’m developing **[Pustak Bazzar](https://play.google.com/store/apps/details?id=com.boss.pustakbazzar)** — a book reselling app 📚
-- 🎯 My 2025 goals: **Contribute to open-source AI projects** & publish a **research paper on Deep Learning**
-- ⚡ Fun fact: *I debug my dreams using Stack Overflow*
+- 💼 **Flutter Developer** @ Margin Top Solutions Pvt. Ltd. (Mar 2026 – Present) · Flutter Intern there before that
+- 🚀 **Founder & CEO** @ [Sumix Developers](https://sumixdevelopers.com) — websites, apps & digital marketing for clients
+- 🌐 **Freelance Developer** @ [MeaningBy.com](https://meaningby.com) — dictionary, translation & writing platform built end to end
+- 🎓 **Licensed Computer Engineer** (Nepal Engineering Council) · **B.E. Computer Engineering**, IOE Western Regional Campus, Pokhara (2022 – 2026)
+- 🤖 Senior Member, WRC Robotics Club — mentored **150+ students** on Git, robotics & research writing
+- 📍 Kathmandu, Nepal
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 💻 **Languages**
+#### 📱 **Mobile**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,java" />
 </p>
 
-#### 🧩 **Frameworks & Libraries**
+#### 🌐 **Web & Backend**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,tensorflow,pytorch,opencv,sklearn" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,tailwind,wordpress,fastapi,django" />
 </p>
 
-#### 🗄️ **Databases & Backend**
+#### 🧠 **AI / ML**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn" />
 </p>
 
-#### 🧰 **Tools & Platforms**
+#### 🗄️ **Databases & Cloud**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,figma,postman,androidstudio,vscode" />
+<img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,vercel" />
 </p>
+
+#### 🧰 **Tools**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,linux,figma,postman,vscode,arduino" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| 📚 **[SEE All Books & Guides](https://play.google.com/store/apps/details?id=com.boss.class10allguidemanual2081)** | Study app for Nepal's Class 10 (SEE) students — **15K+ downloads, 5K+ active users** | Java · Firebase |
+| 📖 **[Pustak Bazzar](https://play.google.com/store/apps/details?id=com.pustakbazzar.app)** | Book resale app with user profiles, filters & admin panel | Java · MVVM · Firebase |
+| 💰 **[Paisa Expense Manager](https://play.google.com/store/apps/details?id=com.paisa.expense_manager)** | Daily expense tracker with categories & insights | Java · Realm |
+| 🌐 **[MeaningBy.com](https://meaningby.com)** | Live dictionary, translation & writing-resources platform | React · Node.js · Tailwind |
+| 🍳 **[Dishcovery](https://github.com/sumitsah250/Dishcovery)** | AI recipe recommender — detects ingredients from photos (YOLOv8) & voice | Python · YOLOv8 · FastAPI |
+| ✋ **[Sign Language Detection](https://github.com/sumitsah250/sign-language)** | Real-time gesture-to-text deep learning model | TensorFlow · Keras · OpenCV |
+| 💬 **[Kuraakaani](https://github.com/sumitsah250/android-files/tree/master/KuraaKaani)** | Real-time chat app with auth & profiles | Java · Firebase |
+| 🚤 **[Rowboatics](https://github.com/sumitsah250/Robotics/tree/master/rowboatics)** | Wireless-controlled boat built for IIT Bombay TechFest | Arduino · BLDC · ESC |
+
+---
+
+### 🏆 Achievements
+
+- 🥇 **Winner — CoDecode, Technorion 5.0** (IIT Techfest Zonal Round, 2025) — represented Nepal
+- 🏅 **4th place — Janakpur Hackathon** among 25+ national teams (2023)
+- 🥈 **Runner-up — OSM Hackfest** (2023)
+- 📲 Published apps with **25K+ downloads** on the Play Store
+- 🧑‍🏫 Mentored **150+ students** through Robotics Club sessions & workshops
 
 ---
 
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitsah250&bg_color=0d1117&color=00E676&line=1de9b6&point=ffffff&area=true&hide_border=true" width="100%"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitsah250&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsah250&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sumitsah250&theme=tokyonight&hide_border=true" height="180em"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitsah250&bg_color=0d1117&color=00E676&line=1de9b6&point=ffffff&area=true&hide_border=true" width="100%"/>
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=sumitsah250&show_icons=true&theme=tokyonight&hide_border=true" height="170em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsah250&layout=compact&theme=tokyonight&hide_border=true" height="170em"/>
+<br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sumitsah250&theme=tokyonight&hide_border=true" height="170em"/>
 </div>
-
----
-
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sumitsah250&theme=onedark&no-frame=true&margin-w=10&margin-h=10" />
-</p>
 
 ---
 
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sumitsah250"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
-  <a href="https://kaggle.com/sumitsah250"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" height="40"/></a>
-  <a href="https://instagram.com/sumitsah.250"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" height="40"/></a>
-  <a href="https://fb.com/sumitsah250"><img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40" height="40"/></a>
-  <a href="https://leetcode.com/sumitsah250"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40"/></a>
-  <a href="https://www.hackerrank.com/sumitsah250"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="40" height="40"/></a>
+<a href="https://linkedin.com/in/sumit-sah-3675b91a9"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
+&nbsp;
+<a href="https://kaggle.com/sumitsah250"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" height="40"/></a>
+&nbsp;
+<a href="https://instagram.com/sumitsah.250"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" height="40"/></a>
+&nbsp;
+<a href="https://facebook.com/sumitsah250"><img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40" height="40"/></a>
+&nbsp;
+<a href="https://leetcode.com/sumitsah250"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40"/></a>
+&nbsp;
+<a href="https://www.hackerrank.com/sumitsah250"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="40" height="40"/></a>
 </p>
-
----
-
-### 😂 Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+💼 Need a website, app or ads for your business? Let's talk → <a href="https://sumixdevelopers.com"><b>sumixdevelopers.com</b></a>
 </p>
 
 ---
 
-### 🎨 Crafted with Passion
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Keep%20Building,%20Keep%20Learning%20💡&fontSize=30&fontAlignY=35&desc=—%20Sumit%20Sah%20—&descAlignY=55&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1DE9B6,100:00E676&height=120&section=footer&text=Keep%20Building,%20Keep%20Learning%20💡&fontSize=24&fontColor=0d1117&fontAlignY=65" />
 </p>
-
----
-
-<h3 align="center">✨ “Strive to build something that outlives you.” ✨</h3>
-<p align="center">Made with ❤️ by <b>Sumit Sah</b></p>
